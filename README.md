@@ -1,1 +1,6 @@
-# Docker_command
+![container id and view command](https://github.com/user-attachments/assets/d0375b0a-7729-47b1-a07d-81cc90cfb09b)
+![Container works](https://github.com/user-attachments/assets/c4db7c40-c760-4d54-99b8-7142e729cf33)
+![Docker installed in EC2](https://github.com/user-attachments/assets/cfcb5b38-f7d9-4c52-9f6c-6adaa607413e)
+![Image command and pulled HTTPD](https://github.com/user-attachments/assets/8714847e-45a6-4cc0-9c61-3d650e87a31f)
+![Network command](https://github.com/user-attachments/assets/61af3e13-4bd5-4a33-a9f7-0b114f8a46b8)
+![Volume comand](https://github.com/user-attachments/assets/682ed074-9161-4917-8d20-3aafe2cf9d10)
